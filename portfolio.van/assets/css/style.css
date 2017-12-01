@@ -1,0 +1,182 @@
+body{
+	background-color: lightgrey;
+
+}
+.bod{ 
+	background-repeat: no-repeat;
+
+}
+
+.prt{
+	color:white;
+	text-align: center;
+	animation-name:flipOutY;
+	animation-iteration-count: initial;
+	animation-duration: 10s;
+}
+#form{
+	animation-iteration-count: infinite;
+	animation-duration:10s;
+	animation-name:bounceInUp;
+	color:pink;
+	text-align: center;
+}
+.font{
+	background-color: lightgrey;
+}
+#im{
+	width: 800px;
+	height: 500px;
+	margin-left: 300px;
+
+
+}
+img{
+	width: 150px;
+	height: 150px;
+}
+#present{
+	background-color:lightgrey;
+}
+#ret{
+	color: red;
+}
+#li{
+	width: 300px;
+	height: 300px;
+}
+.re{
+	top:20px;
+	margin-left: 800px;
+	color:blue;
+}
+#v{
+	color: yellow;
+}
+h3{
+	color:black;
+}
+form{
+	display: inline;
+	border-radius: 5px solid blue;
+}
+#ser{
+	margin-left: 1100px;
+	display: inline;
+}
+.sur{
+	width: 70px;
+	height: 70px;
+	border-radius: 15px;
+	float: right;
+}
+#in{
+	display: inline;
+	width: 280px;
+	height: 280px;
+	margin-top:50px;
+}
+#ter{
+	color:lightblue;
+	animation-duration:5s;
+	animation-name:rollIn;
+	animation-iteration-count: initial;
+}
+
+#mi{
+	width: 280px;
+	height: 200px;
+	display: inline-flex;
+}
+#gg{
+	text-align: center;
+	color: white;
+}
+#vi{
+	margin-left: 600px;
+	width: 200px;
+	height: 200px;
+	
+
+}
+#go{
+	animation-name:zoomIn;
+	animation-iteration-count: infinite;
+	animation-duration: 10s;
+	color: red;
+}
+#pro{
+	background-color:lightgrey;
+}
+.row{
+	width: 350px;
+	height: 300px;
+	margin: center;
+}
+#me{
+	text-align: center;
+	color:blue;
+}
+#fi{
+	background-color: red;
+}
+.so{
+	width: 300px;
+	height: 300px;
+	
+}
+input[type=text], select, textarea {
+    width: 30%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    top: 50px;
+}
+#subject{
+	height: 80px;
+	width: 380px;
+
+
+}
+.con{
+	color: black;
+}
+#gi{
+	color:blue; 
+}
+.gli{
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
